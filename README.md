@@ -1,0 +1,2 @@
+# Dedikodu
+Dedikodu
